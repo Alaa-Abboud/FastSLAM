@@ -4,7 +4,7 @@ Hello !
 
 This a FastSLAM Matlab code implemented on the Husky robot simulator in ROS-Gazebo.
 
-To get the algorith mworking, run the "main.m" script. All the other files are functions used in the main script.
+To get the algorithm working, run the "main.m" script. All the other files are functions used in the main script.
 
 Hope you find it interesting !
 
